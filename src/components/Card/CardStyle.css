@@ -1,0 +1,9 @@
+.Card{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    background-size: cover;
+    color: yellow;
+    font-size: 16px;
+    box-shadow: 0 0 10px 10px saddlebrown;
+}
